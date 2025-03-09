@@ -7,3 +7,6 @@ Made by: DarkScorpyon
 
 Also check Modernity project here:
 https://github.com/ABKQPO/Modernity-GTNH
+
+
+![pack](https://github.com/user-attachments/assets/005ad8d1-213e-43a8-9e86-e3b4fbb785d5)
